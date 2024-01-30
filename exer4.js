@@ -1,6 +1,6 @@
 //exer 1
 console.log('Boas vindas ao exercício de desafio final');
-
+//Verificando atualizações
 //exer 2
 let nome = Mike;
 console.log(`Olá ${nome}!`);
